@@ -3,9 +3,22 @@
 **Research project — not proven consistently profitable.**  
 **研究项目：尚未证明能够稳定盈利。**
 
-[中文说明](README.zh-CN.md) · [Actual implementation](docs/IMPLEMENTATION.md) · [Data and permissions](docs/DATA.md)
+[中文说明](README.zh-CN.md) · [Start contributing](#start-contributing) · [Actual implementation](docs/IMPLEMENTATION.md) · [Data and permissions](docs/DATA.md)
 
 An offline research release of a personal weather-market strategy, including unsuccessful experiments. The aim is to make the mechanisms inspectable and invite better tests, not to sell a trading system. Experiments were developed by the project owner with **Kiro / Opus 5.5 assistance**; these are tool/model attributions supplied by the owner, not strategy names or independently verified model provenance.
+
+### Start contributing
+
+New here? Start with [#1: offline quickstart verification](https://github.com/Tonylo-lab/polymarket-weather-research/issues/1); one operating system per initial contribution is welcome. For research work, choose one of the scoped tasks below. Each issue includes starting files and acceptance criteria.
+
+| Task | Entry point | Labels |
+| --- | --- | --- |
+| [#1 Verify the offline quickstart on Windows, macOS or Linux](https://github.com/Tonylo-lab/polymarket-weather-research/issues/1) | Run the synthetic demo/tests and improve both language guides | `good first issue`, `documentation` |
+| [#2 Compare realized-cost and reserved-cost sizing](https://github.com/Tonylo-lab/polymarket-weather-research/issues/2) | A deterministic quote-comparison tool using synthetic books | `help wanted`, `enhancement` |
+| [#3 Validate settlement evidence records](https://github.com/Tonylo-lab/polymarket-weather-research/issues/3) | A versioned schema and offline structural/hash validator | `help wanted`, `enhancement` |
+| [#4 Add a separately versioned H2 quality-gated control](https://github.com/Tonylo-lab/polymarket-weather-research/issues/4) | Explicit spread/depth checks, preserving current H2 behavior | `help wanted`, `enhancement` |
+
+Comment on the issue with your proposed approach or platform, then submit a small PR following [CONTRIBUTING.md](CONTRIBUTING.md). No wallet or private dataset is needed. Keep work offline, unknown labels unknown, and new behavioral experiments separate from historical returns.
 
 ### What is the original strategy?
 
@@ -73,4 +86,4 @@ No real market archive, HKO raw dataset or real account database is included. Pe
 
 Owner-supplied project code and newly authored examples are released under [MIT](LICENSE). No third-party SDK or collector implementation is vendored. See [THIRD_PARTY.md](THIRD_PARTY.md). The preserved namespace `live_strategy/` contains only offline calculations; its name does not enable trading.
 
-Useful contributions: add a separately versioned H2 quality-gated control; compare reservation-gated execution without reusing old returns; build verifiable settlement labels; test latency/partial fills; or run a preregistered out-of-sample evaluation. [Contribution guide](CONTRIBUTING.md) · [Release checks and limits](docs/RELEASE_CHECKS.md).
+Choose a task from [Start contributing](#start-contributing), or browse [open issues](https://github.com/Tonylo-lab/polymarket-weather-research/issues). [Contribution guide](CONTRIBUTING.md) · [Release checks and limits](docs/RELEASE_CHECKS.md).

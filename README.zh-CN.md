@@ -3,9 +3,22 @@
 **Research project — not proven consistently profitable.**  
 **研究项目：尚未证明能够稳定盈利。**
 
-[English README](README.md) · [实际实现](docs/IMPLEMENTATION.md) · [数据与权限](docs/DATA.md)
+[English README](README.md) · [参与入口](#参与入口) · [实际实现](docs/IMPLEMENTATION.md) · [数据与权限](docs/DATA.md)
 
 这是个人天气市场策略的离线研究发布版，保留失败实验，方便其他开发者检查机制、改进验证。实验由项目所有者通过 **Kiro／Opus 5.5 辅助开发**；这是所有者提供的工具／模型署名，不是策略名称，也不是独立核实的模型来源证明。
+
+### 参与入口
+
+第一次参与可以从 [#1：离线入门流程验证](https://github.com/Tonylo-lab/polymarket-weather-research/issues/1) 开始，首个贡献只验证一个操作系统也欢迎。希望参与研究，可以选择下表中的具体任务；每个 Issue 都列有代码入口和验收条件。
+
+| 任务 | 从哪里开始 | 标签 |
+| --- | --- | --- |
+| [#1 验证 Windows、macOS 或 Linux 的离线入门流程](https://github.com/Tonylo-lab/polymarket-weather-research/issues/1) | 运行合成演示／测试，完善中英文操作说明 | `good first issue`、`documentation` |
+| [#2 对比实际成本与资金预留的数量选择](https://github.com/Tonylo-lab/polymarket-weather-research/issues/2) | 使用合成盘口制作确定性的报价对照工具 | `help wanted`、`enhancement` |
+| [#3 校验结算证据记录](https://github.com/Tonylo-lab/polymarket-weather-research/issues/3) | 版本化证据格式及离线结构／摘要校验器 | `help wanted`、`enhancement` |
+| [#4 为 H2 新建显式盘口质量门槛对照](https://github.com/Tonylo-lab/polymarket-weather-research/issues/4) | 增加点差／深度审核，保留当前 H2 行为 | `help wanted`、`enhancement` |
+
+先在对应 Issue 留言说明准备采用的方法或验证的平台，再按 [CONTRIBUTING.md](CONTRIBUTING.md) 提交小范围 PR。不需要钱包或私有数据；工作保持离线，未知结算继续未知，新行为实验不沿用历史收益。
 
 ### 原策略做什么？
 
@@ -73,4 +86,4 @@ python -B -m research.run --input samples/your_bundle/manifest.json --strategy H
 
 所有者提供的项目代码与新编合成示例采用 [MIT](LICENSE)，没有打包第三方 SDK 或采集器实现。见 [THIRD_PARTY.md](THIRD_PARTY.md)。`live_strategy/` 保留历史命名，但只包含离线计算。
 
-欢迎贡献：另立版本实现 H2 显式质量门槛；比较资金预留门控且不沿用旧收益；建立可验证的结算标签；测试延迟／部分成交；开展预注册样本外评估。见[贡献说明](CONTRIBUTING.md)与[发布检查和限制](docs/RELEASE_CHECKS.md)。
+从[参与入口](#参与入口)选择具体任务，或查看[开放 Issues](https://github.com/Tonylo-lab/polymarket-weather-research/issues)。见[贡献说明](CONTRIBUTING.md)与[发布检查和限制](docs/RELEASE_CHECKS.md)。
