@@ -1,0 +1,8 @@
+{
+  "mode": "offline_research_only",
+  "strategy": "H2",
+  "capital": 200,
+  "input": "samples/your_bundle/manifest.json",
+  "settlement_default": "unknown",
+  "note": "Illustrative fields corresponding to CLI options; no automatic config loading or credentials."
+}

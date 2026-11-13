@@ -1,0 +1,37 @@
+{
+  "review_date": "2026-11-13",
+  "runtime": "Python 3.11, fresh venv created without pip; environment and user site packages disabled",
+  "third_party_runtime_dependencies": [],
+  "offline_tests_passed": 18,
+  "demo": {
+    "strategies": ["baseline", "S2", "H2", "A1"],
+    "synthetic_events_each": 2,
+    "labels": "all unknown",
+    "network_access": "denied by process audit guard",
+    "account_access": "no wallet/credential/financial-account implementation included"
+  },
+  "source_fidelity": {
+    "explicit_source_file_allowlist_count": 27,
+    "ast_identical_retained_definitions": 167,
+    "original_fresh_initializer_vs_release_full_synthetic_ledgers_equal": true,
+    "differential_scope": "baseline/S2/H2/A1, two synthetic events each; same AST-verified decision and replay bodies",
+    "not_claimed": "all-state equivalence, real fills, historical-return reproduction or consistent profitability"
+  },
+  "historical_results": {
+    "candidate_configurations": 34,
+    "aggregate_records": 68,
+    "event_windows_in_each_record": 68,
+    "historical_returns_rerun_in_release": false,
+    "official_winner_labels_independently_verified": false,
+    "version_binding": "aggregate source-file hashes only; no complete historical dependency binding"
+  },
+  "distributed_data": "authored synthetic generator and numeric research aggregates only; no raw third-party dataset",
+  "sensitive_scan": {
+    "command": "python -B tools/check_release.py",
+    "coverage": ["all allowlisted working files", "every staged blob", "all reachable commit trees and blobs", "commit messages and metadata", "exact tracked-file names and modes"],
+    "candidate_values_printed": false,
+    "reviewed_expected_items": ["labelled SHA-256 digests and source fingerprints", "generic nonpersonal Git publication identity", "synthetic asset labels", "public provider URLs"],
+    "conclusion_wording": "Within the checked scope, no unapproved sensitive information was found.",
+    "limits": "heuristic patterns and manual review; excluded private files are not certified; no absolute safety guarantee"
+  }
+}

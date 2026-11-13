@@ -1,0 +1,396 @@
+{
+  "method": "Explicit file and definition allowlist; no original Git history",
+  "records": [
+    {
+      "path": "src/models.py",
+      "source_sha256": "acd102d84dcbeb5c8bbbeae33f15051956eecfa3204bec90b22ed285f1cdb63b",
+      "export_sha256": "667916a64682f04b1e4ee230a11ea87b53c530cdb7af6f582f1fc4b73d154d10",
+      "unchanged_definitions": [
+        "OutcomeMetadata",
+        "Outcome",
+        "HKOWeather"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "src/paper_execution.py",
+      "source_sha256": "8249386b4b23308b41b98431db2d3a9a83e18570d6f0bd5c8e8fbd0e6c34f488",
+      "export_sha256": "e6ec6d7f411fbc04bcfee7c183f84e81c6184b8282c740c4f886c9c577172be7",
+      "unchanged_definitions": [
+        "fee",
+        "ask_cost",
+        "quote"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "src/handover_minimax.py",
+      "source_sha256": "d720adf7a03c838dbd470dd87e8a23f79415dad88e5324231b4747ace57e66de",
+      "export_sha256": "b94966c79126c4a21954796efeaca93c01f3822ef0be20b9c89297e1ad6aa8a0",
+      "unchanged_definitions": [
+        "_leg",
+        "_cost",
+        "solve"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "src/paired_cash_policy.py",
+      "source_sha256": "f18d35f3204c314a9e723cf921182022376a8415aac4ed70e2b19444879be4a9",
+      "export_sha256": "282182e3d8f3824627294c4d1d7fac5eb6702194f55474610fdde32b8e01fdae",
+      "unchanged_definitions": [
+        "normal_buy_rules",
+        "CashPolicy"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "src/paired_ladder.py",
+      "source_sha256": "0248a0e109ca49cd9cf29136f4398b75f663bfaa5e5ec6a7b117f9a5b6fece72",
+      "export_sha256": "17af29595af902debfc347e9c5889118549acc29fa7664e878e81858a6e56a45",
+      "unchanged_definitions": [
+        "path",
+        "_schema",
+        "_handover_policy",
+        "logic_fingerprint",
+        "initialize",
+        "_rank",
+        "_protection",
+        "_tier",
+        "_portfolio",
+        "_map",
+        "_event",
+        "_snapshot_map",
+        "_quote",
+        "_cost_for_shares",
+        "_min_cost",
+        "_buy",
+        "_main_requirement",
+        "_allocate",
+        "_recovery",
+        "_executable_handover",
+        "_handover_c_gate",
+        "_handover",
+        "cycle",
+        "settle",
+        "summary"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "paper_strategy/profit_floor.py",
+      "source_sha256": "7669fb52c34667ac1a91127fb544c0d9e4bfdd9571136023285916843b3aa803",
+      "export_sha256": "a4fde9418b65bdd1652d74f29b11427a02dd68760d4073f5347af1d6d517c07e",
+      "unchanged_definitions": [
+        "rules",
+        "main_profit",
+        "CashPolicy"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "paper_strategy/engine.py",
+      "source_sha256": "22a235df80187c0dc834c3f081a3ca72d93e2206814a4239627807497200fb9f",
+      "export_sha256": "3172028689376ebf7d447529ec52da25887fb02ef6c05fc1b5895cec320319f1",
+      "unchanged_definitions": [
+        "schema",
+        "scenarios",
+        "record",
+        "recovery_budget",
+        "cycle"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "paper_strategy/solver.py",
+      "source_sha256": "ec82c58940f8d137d01ffebedf2427dd7a09454f69a1b40b3b46b9bcd05b79f9",
+      "export_sha256": "e78cef5f192b00ee5d53c348ddf4c019c03e9841cc8550af1f34ed385f5f0a7b",
+      "unchanged_definitions": [
+        "Leg",
+        "schedule",
+        "exit_net",
+        "candidates",
+        "minimum_main_spend",
+        "solve"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "live_strategy/minimax_exit.py",
+      "source_sha256": "228f92a90c3a7a343002b3b9e3aad1611f5b9039381444848a0f6534aabae42b",
+      "export_sha256": "bbe8b10f1b035644c41039aefca76c50ccd8d33149908063aae17045712e3105",
+      "unchanged_definitions": [
+        "previous_rules",
+        "rules",
+        "schema",
+        "signature",
+        "RejectedReview",
+        "ChosenMinimax",
+        "DeferredReview",
+        "computed_review",
+        "computed_rejection",
+        "sell_quote",
+        "compare",
+        "sell_all",
+        "adapters",
+        "persist",
+        "authorize",
+        "is_exit_plan",
+        "remember_empty"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "live_test/fok_precision.py",
+      "source_sha256": "466cad58aff30da12662865a18c87914a0d66a6b498798cd5a2be191fb858243",
+      "export_sha256": "4571af2dc9c215b5c00e15ebbecc833aabb8ffda45eca08ee8217728e339a90b",
+      "unchanged_definitions": [
+        "quantity_step",
+        "amounts",
+        "rejection_reason",
+        "rejection_details"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "scripts/v3_true_fee.py",
+      "source_sha256": "d9f42744f32772412ef8c17a2e82e578a7e41bfc45db8f4b2f0024b75ecce82b",
+      "export_sha256": "77223ebb6400c67bad613a2c2418ba645de332705b3d7843e624a6fef2c50acf",
+      "unchanged_definitions": [
+        "true_executable_quote",
+        "true_cost_for_shares",
+        "true_executable_minimax",
+        "_no_main_only_allocate_original",
+        "ablation"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "scripts/v3_gated_exec.py",
+      "source_sha256": "0105b964ae1eef71fdbad8e6664ceddd56b974c6ecb8368f40b616464a4fc8cb",
+      "export_sha256": "c1abea26b1b342431c699946f2b124e2b94852ab5f72938e7dc2e645bd1427a0",
+      "unchanged_definitions": [
+        "gated_executable_quote",
+        "gated_cost_for_shares",
+        "gated_executable_minimax",
+        "_no_main_only_allocate_original",
+        "no_main_only"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "paper_strategy/legacy.py",
+      "source_sha256": "d86f61edbb9df8ec5c835aa1c86f6579722987ab36e5a0631cd0cdca77275c53",
+      "export_sha256": "90ecf323817b21115a0052826896bd0b763b7e52aaa85424326cab634b9e53cb",
+      "unchanged_definitions": [
+        "schema",
+        "initial_naked",
+        "BatchConnection",
+        "adapters",
+        "sell_stop"
+      ],
+      "changed_definitions": [
+        "config"
+      ]
+    },
+    {
+      "path": "src/market_calendar.py",
+      "source_sha256": "4e3fa9cf0e81f1f9cf78b45566ff533df20d12bb1f8db1a523d54a7c2bd9959f",
+      "export_sha256": "162b22b87ccd39d88b11940f3983d384d6d02bae6a4ae54e869871296b4024ef",
+      "unchanged_definitions": [
+        "event_slug_for_date"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "src/market_only.py",
+      "source_sha256": "78aa7ed4c06f2d771c57c1170efa40cdfc5a26f5ecf9a482a251e25280bfdabe",
+      "export_sha256": "27cc7269ad000f884318ae5e3f40f8d2cdceeba7bd43e0481caa8e490665c9bb",
+      "unchanged_definitions": [
+        "connect",
+        "make_schema",
+        "normalized",
+        "market_inputs",
+        "execution",
+        "consume_book",
+        "position",
+        "record_order",
+        "save_exposure",
+        "_date_from_slug"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "src/polymarket_client.py",
+      "source_sha256": "00a1964fe3dc74023de9530fd2fc268f583621075a69e3fc8ad33bf90dfb3a7c",
+      "export_sha256": "f2c25794fe255bbc6fef8abb19b68c9f070ec20efb71ce787d1ea2c659ce0bf2",
+      "unchanged_definitions": [
+        "outcome_name_from_market",
+        "outcome_name_from_label",
+        "parse_outcome_metadata",
+        "normalize_outcome_label",
+        "is_multi_outcome_temperature_market",
+        "outcome_refs_from_gamma_market",
+        "outcome_match_key",
+        "buy_yes_price",
+        "yes_clob_token_id",
+        "yes_outcome_index",
+        "orderbook_levels",
+        "outcome_template",
+        "outcome_sort_key",
+        "parse_json_list",
+        "_as_float"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "live_test/probe.py",
+      "source_sha256": "330534927c62bd64e71914e4c1ee036b86ba60fb7ad0076988e38d9fc6cd17b7",
+      "export_sha256": "8ffb8d2ae67e540703263d7c60c92b05de4a59ce7b824e3a7a49c623a2670cbe",
+      "unchanged_definitions": [
+        "ProbeError",
+        "require",
+        "decimal"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "live_test/live_gateway.py",
+      "source_sha256": "b92590de40598382e4f3c30532cea3eda55f4bd9f2b884742218af04ef48dc77",
+      "export_sha256": "9562418b9b9eb47620290c30fabebb71ce7d45b68403d7c79c8c78ee0fb06c66",
+      "unchanged_definitions": [
+        "fee_cap"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "src/weather_relay.py",
+      "source_sha256": "7b6d20de8332ab2b4ce659c045a732f92b59f7fed75a60752fc5edc75b97167e",
+      "export_sha256": "5f5b77bb7de260760863a10b85ee72a9a8f9a6382897b59e864bf12d076d6da1",
+      "unchanged_definitions": [
+        "schema",
+        "_metadata",
+        "metadata_for",
+        "anchor_complete",
+        "_finish"
+      ],
+      "changed_definitions": [
+        "EventClient",
+        "_observe_remaining"
+      ]
+    },
+    {
+      "path": "src/paired_cash.py",
+      "source_sha256": "bce286bcbc41734682040054a5957c920fc2f1e5af9941caa958cc62e176f076",
+      "export_sha256": "c7b573133f065f91c423ff68c70db7971a31f488a56261d48eeb0e8350bc3b60",
+      "unchanged_definitions": [
+        "balance",
+        "_schema",
+        "_move",
+        "_use_depth",
+        "debit_buy",
+        "_fee_schedule",
+        "_asset_id",
+        "_executable_books",
+        "_exit_bid_book",
+        "_sell",
+        "_redeem",
+        "_observe"
+      ],
+      "changed_definitions": [
+        "initialize"
+      ]
+    },
+    {
+      "path": "live_strategy/planner.py",
+      "source_sha256": "dcb080ee6ee73e5c3be8e3ed811511363b55013fed896a9fb2cfde3e10444e7d",
+      "export_sha256": "5550e8f09d13dec1f3a73cf9022f3d9b3becea0e2baa8a97c06dc26495807a8a",
+      "unchanged_definitions": [
+        "raw",
+        "executable_quote",
+        "executable_cost_for_shares",
+        "executable_minimax"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "scripts/v3_backtest.py",
+      "source_sha256": "75e65003770c54472af504af3b9932c430dc7f70d966c0e355a25d13437ecc1d",
+      "export_sha256": "23f7921655571cb96bd98630801122beb1451259df08a285751e47bf9558508f",
+      "unchanged_definitions": [
+        "digest",
+        "finite",
+        "save",
+        "readonly",
+        "load_engine",
+        "inputs_for_frame",
+        "SharedConnection",
+        "quote_key",
+        "collect"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "scripts/v3_minimax_cases.py",
+      "source_sha256": "4c200da2be92c4cf915c166653ab5a980a16db0183edf61e78aac6c83a52f154",
+      "export_sha256": "b6b7b4e7bff4453dae1475b5d9ede4eaa970afa52f2bd703ba84398787556350",
+      "unchanged_definitions": [
+        "weather_input"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "scripts/v3_tier_search.py",
+      "source_sha256": "8cd9880627532b5d5188c2371b1130a4951be1d0aa4da047931e8b89633ef961",
+      "export_sha256": "22daa5d95a51d73b23e09ba1ed6ffc96a2bc023840392672e3087db5e53669d6",
+      "unchanged_definitions": [
+        "configs",
+        "candidate_scope"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "scripts/v4_continuous.py",
+      "source_sha256": "8f58e20bbe080d81b1f2644fbc9280264f33ca7e8968461cce2588b8a7a33178",
+      "export_sha256": "580c676c8a5dc8ba30a8f27757ea3b0775ac77d35e893c981d8f6428af343d06",
+      "unchanged_definitions": [
+        "manifest",
+        "_read_frames",
+        "ladder_tuple",
+        "_first_entry",
+        "_best_prices",
+        "_ask_depth",
+        "_buy_no_protection",
+        "_s3_risk_exit",
+        "make_gate",
+        "_no_main_only",
+        "settle_event",
+        "run_config",
+        "classify",
+        "replay_one"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "scripts/v4_round7.py",
+      "source_sha256": "1bd98e86ef4aacbcddbe2007066d9e6eecd43dcc747cbe60375d4229ca8df002",
+      "export_sha256": "4e66efee3d525419050ddfd203e811fcddbacc4f7c3cb13658106a284d2bf5ac",
+      "unchanged_definitions": [
+        "run_config_r7",
+        "_wrap_gate",
+        "tier_sources"
+      ],
+      "changed_definitions": []
+    },
+    {
+      "path": "scripts/v4_hypotheses.py",
+      "source_sha256": "98bc28c746e3a6938db6b0bc51c9e58b1c05ce4cf5798df608b0033eb70c1a6c",
+      "export_sha256": "c6710ffd6e40054b2aff3797b54fa64c3f82cd31cd649a2b642320a3ffd2ed98",
+      "unchanged_definitions": [
+        "run_one"
+      ],
+      "changed_definitions": []
+    }
+  ],
+  "note": "Source hashes bind this export, not historical result behavior. Infrastructure replacements documented separately."
+}

@@ -1,0 +1,1430 @@
+[
+  {
+    "record": "C0_no_trade__200",
+    "source_result_sha256": "058816602f17fb6a5c27b7da59dcc8ff985bebc3d4fdd746684de47ac3018b44",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 0.0,
+    "return_pct": 0.0,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C0_no_trade__500",
+    "source_result_sha256": "ed3cd770266a81101da6f84148d9c820b17dd61b71690b80e305fa7f61185a4e",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 0.0,
+    "return_pct": 0.0,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C1_original__200",
+    "source_result_sha256": "b10cdff6559a4105d4445e84e70115d7dabfea8a316564542dcf44f01564c5b9",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -159.8109,
+    "return_pct": -79.9055,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C1_original__500",
+    "source_result_sha256": "983dd6f961c17158b498b87d85c6c5c4d436524a486ecc2072dd6305b9e0b842",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -424.0808,
+    "return_pct": -84.8162,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C2_cap30__200",
+    "source_result_sha256": "00414ec3e84948f56f57e5887f59205c75d0021f0261353ff20d1f574a1b762f",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -48.5714,
+    "return_pct": -24.2857,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C2_cap30__500",
+    "source_result_sha256": "164498bda5d829c2b47d0162426977e92e49d758218e61e0a2aceba3665f3569",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -155.8064,
+    "return_pct": -31.1613,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C3_cap30_both_legs__200",
+    "source_result_sha256": "550d84230aae9b2791f7396a00fdf050754c8c67ff5c23f41508283ecf08df10",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -14.2042,
+    "return_pct": -7.1021,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C3_cap30_both_legs__500",
+    "source_result_sha256": "f920534cba55650dae800a0a9178a7b739e657b586aefe01d8a50fb5be0c0ff1",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -23.098,
+    "return_pct": -4.6196,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C4_cap30_minprice20__200",
+    "source_result_sha256": "29ce4f6f28e1baaca04ce6098b201ecd8fd013503c619049f2ee1f6e48f68956",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -48.5714,
+    "return_pct": -24.2857,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C4_cap30_minprice20__500",
+    "source_result_sha256": "2a4b26a942a229f34152c45d2e376050250fd627e20680a2b31006f32f830509",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -155.8064,
+    "return_pct": -31.1613,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C5_cap30_minprice35__200",
+    "source_result_sha256": "e1b670f00f31cbcb31118b58cb443d49e23f721335ddc14e1bd35c8a95c4d9c0",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -48.5714,
+    "return_pct": -24.2857,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C5_cap30_minprice35__500",
+    "source_result_sha256": "7395ccdd0a21ff5140100b95494d930d4737ec16ad3447590b4ab78e7e9916a1",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -155.8064,
+    "return_pct": -31.1613,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C6_cap30_mainlead10__200",
+    "source_result_sha256": "603a128fc80f55e46ba9e03260e9e44569827eaaa0affa35041b2aae91e1321f",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -48.5714,
+    "return_pct": -24.2857,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C6_cap30_mainlead10__500",
+    "source_result_sha256": "3d3a0946f210870c19ae28657f0f0011cdc029089742ce8f3a4b475757a53549",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -155.8064,
+    "return_pct": -31.1613,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C7_cap30_spread_depth__200",
+    "source_result_sha256": "3c142e5fa8954ee6e534595f986d68f95ee3b57867725450541844b73c3f5005",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -19.9772,
+    "return_pct": -9.9886,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C7_cap30_spread_depth__500",
+    "source_result_sha256": "848603de8536689b0635f37f17458f2792eb44ab421010a380cbf94aedfc9a24",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -54.5169,
+    "return_pct": -10.9034,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C8_cap30_both_minp35__200",
+    "source_result_sha256": "edbbc967133d48f7c64d9b356326f0b94596d9d29a02be251b8de9d08b436356",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -14.2042,
+    "return_pct": -7.1021,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C8_cap30_both_minp35__500",
+    "source_result_sha256": "696c8b4945ce69e3c84c747157e640460953d5dd74f7356ea1e425ec9f0d69b6",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -23.098,
+    "return_pct": -4.6196,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C9_cap15__200",
+    "source_result_sha256": "6348fe4bb892935ca0f6a64d0fcdbe7e0a7fb371bfc83dcdb6aaec2d1fcd0b94",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -44.7043,
+    "return_pct": -22.3522,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C9_cap15__500",
+    "source_result_sha256": "0e4892aa1539371d7c1a09c06e0e94c66f96cdd5075d8056ee13aa671fe38756",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -98.9611,
+    "return_pct": -19.7922,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "R1_cap30_all_gates__200",
+    "source_result_sha256": "cbfa75beda63b39c50757b61836d9fbd123fce028933e0d8f9d17faf22ab64d9",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -0.9566,
+    "return_pct": -0.4783,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "R1_cap30_all_gates__500",
+    "source_result_sha256": "9dc4629ef2558063d3d81e96b6baf2f1101e4c7e6172c8991bd4f85895b7b4e4",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 19.0708,
+    "return_pct": 3.8142,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "R2_cap30_mainonly__200",
+    "source_result_sha256": "6f44e75d605187a1e528cc3ab22c619421227fded6ccd62067d2cb1bd5dc1349",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -80.8101,
+    "return_pct": -40.405,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "R2_cap30_mainonly__500",
+    "source_result_sha256": "77f729b48d10996c699ae124de5c40a6ca462e082d3bc6cd54417dcab79b6885",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -126.7705,
+    "return_pct": -25.3541,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "R3_cap15_mainonly__200",
+    "source_result_sha256": "aa8e5d813a163f383b288815c406ca833715a0f5d9e21e398080d702dceffa0d",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -41.3241,
+    "return_pct": -20.662,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "R3_cap15_mainonly__500",
+    "source_result_sha256": "e4897895ea11f9ad0eeb2a4cf1ee812c92c26acff90bcc641f9fc611b00656ab",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -125.8621,
+    "return_pct": -25.1724,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "R4_cap30_both_spread__200",
+    "source_result_sha256": "e16dbb7ebb9b46ec978a4b2b919e8ed76f71224f6ee2bfa2c2a75f5e482a41d3",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -0.9566,
+    "return_pct": -0.4783,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "R4_cap30_both_spread__500",
+    "source_result_sha256": "dec9c59108f89fc98446025397d8266bd5a22fe27c7078c47a7782886dcacddf",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 19.0708,
+    "return_pct": 3.8142,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "S1_capinv_both_spread__200",
+    "source_result_sha256": "11413dd059226d8b7e766070b6fe4d00036775f56d1e058372f966e5998170bd",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 0.3744,
+    "return_pct": 0.1872,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "S1_capinv_both_spread__500",
+    "source_result_sha256": "48a81b775afed801c42f782bd537c5bc6d3f5794c72c37273c995bf75b9ac53b",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 0.3744,
+    "return_pct": 0.0749,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "S2_capinv_delayconfirm__200",
+    "source_result_sha256": "f2752c0c41cdbc524cf62d01dba6c93bc49d6b0f09a342dda0e196b61f152611",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 2.0771,
+    "return_pct": 1.0385,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "S2_capinv_delayconfirm__500",
+    "source_result_sha256": "4543434fc7880150be84e326f9d3d3036d2805fe885f1fc703c1e2c6680254a0",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 2.0771,
+    "return_pct": 0.4154,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "S3_capinv_earlytrim__200",
+    "source_result_sha256": "76f32ebe469ee13145db3e5199e25494c8d7efda9a0d7258bff7e73d64729f68",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -12.0782,
+    "return_pct": -6.0391,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "S3_capinv_earlytrim__500",
+    "source_result_sha256": "740fb26117bcfbc6a230c0e74439aa0057ca22439f4997196d837d4e9d26d817",
+    "source_group": "v4_continuous_20261030",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -12.0782,
+    "return_pct": -2.4156,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "H1a_confirm3__200",
+    "source_result_sha256": "4fad83ffe07191dfbd25f65613e5ee738c523fad0ff5fe7cd28804778cd2d684",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -1.31,
+    "return_pct": -0.655,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "H1a_confirm3__500",
+    "source_result_sha256": "4422defad1dedcbb0b19815330b934c54c1072af3959840aa024f6d92a08852f",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -1.31,
+    "return_pct": -0.262,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "H1b_confirm5__200",
+    "source_result_sha256": "aec61df5d6877b81e04b13b49399f266dc94d146a79aaf154ab0a57f7b62b61f",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -1.5977,
+    "return_pct": -0.7989,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "H1b_confirm5__500",
+    "source_result_sha256": "51fcc263b53f71dfbacca0eae50ecc68f5ea34d1479f6a1df8f68f78831384c6",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -1.5977,
+    "return_pct": -0.3195,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "H2_late14__200",
+    "source_result_sha256": "79886f051200d55600c63c82a8928340764c58bed8fdc887931d97909c421b47",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 7.399,
+    "return_pct": 3.6995,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "H2_late14__500",
+    "source_result_sha256": "b41aa8832b581287395bb1943b1a694cbf28ec2c9bccae626de43b99871ef312",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 7.399,
+    "return_pct": 1.4798,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "H3_trend__200",
+    "source_result_sha256": "d95c421390ba97486adbf9c2ddf7ad1abf88fac46885e4f99fea89f0d7cb338f",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -0.0845,
+    "return_pct": -0.0422,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "H3_trend__500",
+    "source_result_sha256": "b548ec49919660b14c16a8db66014e9981b39a19c73470ab13dd3b6245234190",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -0.0845,
+    "return_pct": -0.0169,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "HS_adverse1tick__200",
+    "source_result_sha256": "c696bb7a2bdfe3229bccf6ead31796eb7dbba312dcbe81070f4262387845ccb5",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 3.5743,
+    "return_pct": 1.7871,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "HS_adverse1tick__500",
+    "source_result_sha256": "af4d63fe8c5132555ad2f95b180e0c5aab4fd6c701e39c10df3d1f337df931f1",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 3.5743,
+    "return_pct": 0.7149,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "HS_delay1min__200",
+    "source_result_sha256": "89d286eea6f5a2645d959bd43bbeb5a84f109df6a9b3ee615c0c390273a4a233",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -6.3638,
+    "return_pct": -3.1819,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "HS_delay1min__500",
+    "source_result_sha256": "fdc71f5ee5db124f1fdabc61b0de3601d581731859f5cf06c9c9edecf3638395",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -6.3638,
+    "return_pct": -1.2728,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "HS_t1300__200",
+    "source_result_sha256": "ca75f4a490a2dd46c2fda91c2093f636160760023bd91e965593b43aa88d9dfc",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 7.399,
+    "return_pct": 3.6995,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "HS_t1300__500",
+    "source_result_sha256": "6b45bb94ec17c3feaf2be9251878900588b785f4a44d847cdbd442d20faba2bb",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 7.399,
+    "return_pct": 1.4798,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "HS_t1330__200",
+    "source_result_sha256": "c0ba82e88e52943101b6388ddc5ab1206f25da69f601a86fef51caa18590ce6d",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 7.399,
+    "return_pct": 3.6995,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "HS_t1330__500",
+    "source_result_sha256": "b928af570289446aad4e746f70dca9ff67005f0fb92d996c783cd2e8b66a3651",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 7.399,
+    "return_pct": 1.4798,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "HS_t1430__200",
+    "source_result_sha256": "8842ff9130d4d40e43067924f9a76f99641257d408829d2293eaa4697016eb3e",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 7.399,
+    "return_pct": 3.6995,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "HS_t1430__500",
+    "source_result_sha256": "2a0883d5da067dba61a0de6dc6a2a4d4ebfcf1e65a6d590137f185d4cd458b42",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 7.399,
+    "return_pct": 1.4798,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "HS_t1500__200",
+    "source_result_sha256": "87b35860aea4c0392f6c6508758cf5068f2ac42cd3dc6fd96b271ad5802540cc",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 7.399,
+    "return_pct": 3.6995,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "HS_t1500__500",
+    "source_result_sha256": "95d492cc858e754e7259ed30716f0651e5279c8560b90759830b25c020598b0c",
+    "source_group": "v4_hypotheses_20261031",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 7.399,
+    "return_pct": 1.4798,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "A1_no_lowvalue_addons__200",
+    "source_result_sha256": "4907277262bdd21a3cf53a60c7ebc4908a92544118f8eaf93a9e81ea2ac5b01f",
+    "source_group": "v4_round7_20261101",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 17.1625,
+    "return_pct": 8.5813,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "A1_no_lowvalue_addons__500",
+    "source_result_sha256": "e8c45f17335a1172bf5575219b50653c19268daba0b2f16b8f6fd496606761db",
+    "source_group": "v4_round7_20261101",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 17.1625,
+    "return_pct": 3.4325,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "A2_protection_off_tail__200",
+    "source_result_sha256": "e01d7ff89100422d86141e69cc39db6ef94e2c8e20d5058645b9c553ff64f997",
+    "source_group": "v4_round7_20261101",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": -103.9337,
+    "return_pct": -51.9669,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "A2_protection_off_tail__500",
+    "source_result_sha256": "85680d22c1f46c647fa8f74814e1e218ddc57ddddf315273b78b2bb8a7ef6e81",
+    "source_group": "v4_round7_20261101",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": -103.9337,
+    "return_pct": -20.7867,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "A3_protection_off_naked__200",
+    "source_result_sha256": "2418b5dcfd1956d5dcf02ed8bf552daaac74b5e715126d000bd493501851dd7c",
+    "source_group": "v4_round7_20261101",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 29.9022,
+    "return_pct": 14.9511,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "A3_protection_off_naked__500",
+    "source_result_sha256": "9ec69ba2b4a0845b5e122b6432302b1019c889eb686e9b5bd04e36ff5c994eb2",
+    "source_group": "v4_round7_20261101",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 29.9022,
+    "return_pct": 5.9804,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "B1_earlier_if_stable__200",
+    "source_result_sha256": "fcf971f2f8ac2e567ebe80c0d91208442d7432a38d6c620e6b3e57bbc8af86d5",
+    "source_group": "v4_round7_20261101",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 1.1891,
+    "return_pct": 0.5946,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "B1_earlier_if_stable__500",
+    "source_result_sha256": "34349601ac2e08da226e3439daa0f459df0fb473e6be6cea444ff8eeed7de4b3",
+    "source_group": "v4_round7_20261101",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 1.1891,
+    "return_pct": 0.2378,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C1_account_scaled_budget__200",
+    "source_result_sha256": "dd57b509a6111d361c289a16b61c0731bbd7fe6b11e307fd1c31220475334c8c",
+    "source_group": "v4_round7_20261101",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 6.4453,
+    "return_pct": 3.2226,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C1_account_scaled_budget__500",
+    "source_result_sha256": "b2578a65b8aafdc43b72fd0e30ec2edff090d03d5201e037bcb7343233cefb95",
+    "source_group": "v4_round7_20261101",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 9.841,
+    "return_pct": 1.9682,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C2_fixed_risk_per_event__200",
+    "source_result_sha256": "4ce89d177f044d6ed2c810853bb8acc7dc0c3c4e3cf01ffcf85d89103235c9fb",
+    "source_group": "v4_round7_20261101",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 0.0,
+    "return_pct": 0.0,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "C2_fixed_risk_per_event__500",
+    "source_result_sha256": "4d19c2fb2d07adc284a627370b4c972e230297607a1ab313ae40be897d36045f",
+    "source_group": "v4_round7_20261101",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 0.0,
+    "return_pct": 0.0,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "H2_baseline__200",
+    "source_result_sha256": "05a1a1de0b0130c5085d7f40518c884cc1d7b9f05c28a98e7bf4cf88440598e1",
+    "source_group": "v4_round7_20261101",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 200,
+    "net_profit": 7.399,
+    "return_pct": 3.6995,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  },
+  {
+    "record": "H2_baseline__500",
+    "source_result_sha256": "9340ac84b96ce56a6e0cb616c31caa0e37ab703c199696d57facdfd9eb3fd7bc",
+    "source_group": "v4_round7_20261101",
+    "reproduction_status": "historical record; not rerun in this release",
+    "events": 68,
+    "capital": 500,
+    "net_profit": 7.399,
+    "return_pct": 1.4798,
+    "cash_binding_events": 0,
+    "date_range": [
+      "2026-08-19",
+      "2026-10-25"
+    ],
+    "recorded_settlement_basis_counts": {
+      "official": 54,
+      "window_end_proxy": 10,
+      "assumed": 4
+    },
+    "winner_labels_independently_verified_in_release": false
+  }
+]

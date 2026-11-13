@@ -1,0 +1,15 @@
+{
+  "synthetic": false,
+  "sources": [
+    {
+      "day": "2030-01-01",
+      "kind": "PUBLIC_GAMMA_BOOK",
+      "path": "frames.json",
+      "sha256": "REPLACE_WITH_SHA256_OF_YOUR_LAWFULLY_ACQUIRED_LOCAL_FILE"
+    }
+  ],
+  "labels": {
+    "2030-01-01": {"status": "unknown", "winner": null}
+  },
+  "note": "Format template only. The zero-input demo generates clearly synthetic frames without this file."
+}
